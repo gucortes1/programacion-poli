@@ -67,3 +67,4 @@ public class Test2 {
         System.out.println( promedio_entre_5(5, 5, 5, 5, 5) );
     }        
 }
+// parcial
